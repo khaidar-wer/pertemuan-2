@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-2 {
+  background-color: grey;
+
+  width: 50%;
+}
+.b {
+  width: 50%;
+  background-color: rgb(208, 218, 165) ;
+
+}

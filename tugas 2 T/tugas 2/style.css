@@ -1,0 +1,19 @@
+.tr-1 {
+  background-color: grey;
+}
+.foto {
+  width: 320px;
+}
+
+.dm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.foto-2 {
+  height: 243px;
+  width: 320px;
+}
+.td-1 {
+  background-color: grey;
+}
